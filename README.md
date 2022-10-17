@@ -6,8 +6,8 @@ Emphasis is given on writing reusable and readable software.
 ## Device
 
 The device used during the development is not always the same. 
-Before using any piece of software, it should be adapted to specific device in use.
-For instance, you might find code written for the Arduino Nano, but you find yourself using the Arduino Mega.
+Before using any piece of software, it should be adapted to the specific device in use.
+For instance, you might find code written for the Arduino Nano, but you are using the Arduino Mega.
 Device constraints, if any, should be specified in a comment at the top of the main source file.
 
 ## Recommended teaching order
