@@ -12,6 +12,6 @@ Device constraints, if any, should be specified in a comment at the top of the m
 
 ## Recommended teaching order
 
-1. (blink)[https://github.com/devgioele/arduino-101/tree/main/blink]
-2. (ultrasonic)[https://github.com/devgioele/arduino-101/tree/main/ultrasonic]
-3. (servo-oled)[https://github.com/devgioele/arduino-101/tree/main/servo-oled]
+1. [blink](https://github.com/devgioele/arduino-101/tree/main/blink)
+2. [ultrasonic](https://github.com/devgioele/arduino-101/tree/main/ultrasonic)
+3. [servo-oled](https://github.com/devgioele/arduino-101/tree/main/servo-oled)
